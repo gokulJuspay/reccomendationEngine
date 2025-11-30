@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "title": "Classic Cotton - White T-Shirt",
+      "status": "active",
+      "category": "carta",
+      "price": 43.21,
+      "vendor": "BasicWear Co.",
+      "variants": [
+        {
+          "id": 10001,
+          "title": "Small",
+          "price": 43.21,
+          "inventory_quantity": 35
+        },
+        {
+          "id": 10002,
+          "title": "Medium",
+          "price": 43.21,
+          "inventory_quantity": 25
+        },
+        {
+          "id": 10003,
+          "title": "Large",
+          "price": 43.21,
+          "inventory_quantity": 77
+        },
+        {
+          "id": 10004,
+          "title": "XL",
+          "price": 43.21,
+          "inventory_quantity": 86
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "title": "Graphic Print - White baggy pant",
+      "status": "active",
+      "category": "catero",
+      "price": 30.92,
+      "vendor": "TrendyThreads",
+      "variants": [
+        {
+          "id": 10005,
+          "title": "Small",
+          "price": 30.92,
+          "inventory_quantity": 39
+        },
+        {
+          "id": 10006,
+          "title": "Medium",
+          "price": 30.92,
+          "inventory_quantity": 61
+        },
+        {
+          "id": 10007,
+          "title": "Large",
+          "price": 30.92,
+          "inventory_quantity": 98
+        },
+        {
+          "id": 10008,
+          "title": "XL",
+          "price": 30.92,
+          "inventory_quantity": 21
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "title": "medicine for cold",
+      "status": "active",
+      "category": "catero",
+      "price": 30.92,
+      "vendor": "TrendyThreads",
+      "variants": [
+        {
+          "id": 10005,
+          "title": "Small",
+          "price": 30.92,
+          "inventory_quantity": 39
+        },
+        {
+          "id": 10006,
+          "title": "Medium",
+          "price": 30.92,
+          "inventory_quantity": 61
+        },
+        {
+          "id": 10007,
+          "title": "Large",
+          "price": 30.92,
+          "inventory_quantity": 98
+        },
+        {
+          "id": 10008,
+          "title": "XL",
+          "price": 30.92,
+          "inventory_quantity": 21
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "title": "Running Sneakers - Blue",
+      "status": "active",
+      "category": "footwear",
+      "price": 59.99,
+      "vendor": "SportyFeet",
+      "variants": [
+        {
+          "id": 10009,
+          "title": "Size 8",
+          "price": 59.99,
+          "inventory_quantity": 20
+        },
+        {
+          "id": 10010,
+          "title": "Size 9",
+          "price": 59.99,
+          "inventory_quantity": 30
+        },
+        {
+          "id": 10011,
+          "title": "Size 10",
+          "price": 59.99,
+          "inventory_quantity": 25
+        }
+      ]
+    }
+  ]
+}
